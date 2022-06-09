@@ -1,2 +1,2 @@
 # firstcode
-code repo
+code repo javascript
